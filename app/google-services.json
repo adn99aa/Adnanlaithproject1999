@@ -1,0 +1,97 @@
+{
+  "project_info": {
+    "project_number": "621060039292",
+    "project_id": "adnanlaithproject",
+    "storage_bucket": "adnanlaithproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:621060039292:android:e6c0c90849d335f565dff9",
+        "android_client_info": {
+          "package_name": "com.example.adnanlaithproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "621060039292-jtqdjjeshqdon41706cnm0ivj1vj5nks.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuh0Le8xBJC9PituW8f9EL50cPr4mqR00"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "621060039292-jtqdjjeshqdon41706cnm0ivj1vj5nks.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:621060039292:android:fb6fdbf94b8b3c6365dff9",
+        "android_client_info": {
+          "package_name": "com.example.adnanlaithproject1999"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "621060039292-jtqdjjeshqdon41706cnm0ivj1vj5nks.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuh0Le8xBJC9PituW8f9EL50cPr4mqR00"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "621060039292-jtqdjjeshqdon41706cnm0ivj1vj5nks.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:621060039292:android:d0735e5c567ab5cc65dff9",
+        "android_client_info": {
+          "package_name": "com.example.adnanlaithproject2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "621060039292-jtqdjjeshqdon41706cnm0ivj1vj5nks.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuh0Le8xBJC9PituW8f9EL50cPr4mqR00"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "621060039292-jtqdjjeshqdon41706cnm0ivj1vj5nks.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
